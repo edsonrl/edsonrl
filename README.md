@@ -1,4 +1,4 @@
-# Edson [Ramiro] Lucas Fh.
+# Edson [Ramiro] Lucas Filho
 
 [![Foo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu)](https://www.linkedin.com/in/edsonramirolucasfilho/)
 [![Bar](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu)](https://twitter.com/ramiro_lucasfh)
