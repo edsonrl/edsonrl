@@ -1,5 +1,6 @@
 # Edson [Ramiro] Lucas Fh.
 
 [https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu](https://www.linkedin.com/in/edsonramirolucasfilho/)
+[https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu](https://twitter.com/ramiro_lucasfh)
 
 [![Ramiro's github stats](https://github-readme-stats.vercel.app/api?username=erlfilho&theme=white-black)](https://github.com/erlfilho/github-readme-stats)
