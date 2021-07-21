@@ -11,6 +11,7 @@ I finished my Ph.D. in July 2020 and during this time I worked on making [Apache
 
 - :scroll: [Investigating Automatic Parameter Tuning for SQL-on-Hadoop Systems](https://www.sciencedirect.com/science/article/abs/pii/S2214579621000216)
 - :scroll: [Don’t Tune Twice: Reusing Tuning Setups for SQL-on-Hadoop Queries](https://link.springer.com/chapter/10.1007%2F978-3-030-33223-5_9)
+- :scroll: [DejaVu: Recycling Tuning Setups in Hive Query Compilation](http://ceur-ws.org/Vol-2469/ERDemo03.pdf)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=erlfilho&theme=white-black)](https://github.com/erlfilho/github-readme-stats)
 
