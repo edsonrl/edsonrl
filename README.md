@@ -1,7 +1,7 @@
 # Hi there, I'm Ramiro :wave:
 
-- :man_raising_hand: I'm a postdoctoral researcher at the University of Passau.
-- :man_construction_worker: I'm currently working on Scalable Database Systems.
+- :raising_hand_man: I'm a postdoctoral researcher at the University of Passau.
+- :construction_worker_man: I'm currently working on Scalable Database Systems.
 - :books: I enjoy databases and distributed computing.
 - :books: I'm an advocate for open source and cloud computing.
 - :postal_horn: Follow me on twitter [@ramiro_lucasfh](https://www.twitter.com/ramiro_lucasfh)
