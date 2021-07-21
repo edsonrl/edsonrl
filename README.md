@@ -7,7 +7,7 @@
 - :postal_horn: Follow me on twitter [@ramiro_lucasfh](https://www.twitter.com/ramiro_lucasfh)
 - :coffee: Call me for a coffee.
 
-I finished my Ph.D. in July 2020 and during this time I worked on making Apache Hive self-tuning. I extended [Starfish](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper36.pdf) (a Hadoop tuning advisor), added some cool features, and integrated it with [Apache Hive](https://hive.apache.org/). Unfortunately, this code is private due to a patent. You can read more about it in these papers:
+I finished my Ph.D. in July 2020 and during this time I worked on making [Apache Hive](https://hive.apache.org/) self-tuning. I extended [Starfish](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper36.pdf) (a Hadoop tuning advisor), added some cool features, and integrated it with Apache Hive. Unfortunately, this code is private due to a patent. You can read more about it in these papers:
 
 - :scroll: [Investigating Automatic Parameter Tuning for SQL-on-Hadoop Systems](https://www.sciencedirect.com/science/article/abs/pii/S2214579621000216)
 - :scroll: [Don’t Tune Twice: Reusing Tuning Setups for SQL-on-Hadoop Queries](https://link.springer.com/chapter/10.1007%2F978-3-030-33223-5_9)
