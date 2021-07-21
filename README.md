@@ -17,4 +17,7 @@ I finished my Ph.D. in July 2020 and during this time I worked on making Apache 
 ![](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/erlfilho/")
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=erlfilho&theme=white-black)](https://github.com/erlfilho/github-readme-stats)
+
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erlfilho&hide=TeX&layout=compact)
+-->
