@@ -3,7 +3,7 @@
 - :construction_worker_man: I'm currently working on automating storage data flow management based on Machine Learning.
 - :books: I enjoy databases, data-intensive systems, and distributed computing.
 - :books: I'm an advocate for open source and cloud computing.
-- :postal_horn: Follow me on twitter [@ramiro_lucasfh](https://www.twitter.com/ramiro_lucasfh)
+- :postal_horn: Follow me on twitter [@edsonrlucas](https://www.twitter.com/edsonrlucas)
 
 I finished my Ph.D. in July 2020 and during this time I worked on making [Apache Hive](https://hive.apache.org/) self-tuning. I extended [Starfish](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper36.pdf) (a Hadoop tuning advisor), added some cool features, and integrated it with Apache Hive. You can check the code [here](https://github.com/erlfilho/experiments). Unfortunately, only the code for the Starfish extention is private due to a patent. You can read more about it in these papers:
 
