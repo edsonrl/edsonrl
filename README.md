@@ -1,7 +1,7 @@
-# Hi there, I'm Ramiro :wave:
+# Hi there :wave:
 
-- :construction_worker_man: I'm currently working on Distributed Database Systems.
-- :books: I enjoy databases and distributed computing.
+- :construction_worker_man: I'm currently working on automating storage data flow management based on Machine Learning.
+- :books: I enjoy databases, data-intensive systems, and distributed computing.
 - :books: I'm an advocate for open source and cloud computing.
 - :postal_horn: Follow me on twitter [@ramiro_lucasfh](https://www.twitter.com/ramiro_lucasfh)
 
@@ -20,4 +20,3 @@ I finished my Ph.D. in July 2020 and during this time I worked on making [Apache
 [![Foo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu)](https://www.linkedin.com/in/edsonramirolucasfilho/)
 [![Bar](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu)](https://twitter.com/ramiro_lucasfh)
 ![](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/erlfilho/")
-
