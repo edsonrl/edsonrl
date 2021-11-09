@@ -18,5 +18,5 @@ I finished my Ph.D. in July 2020 and during this time I worked on making [Apache
 -->
 
 [![Foo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu)](https://www.linkedin.com/in/edsonramirolucasfilho/)
-[![Bar](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu)](https://twitter.com/ramiro_lucasfh)
-![](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/erlfilho/")
+[![Bar](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&labelColor=blu)](https://twitter.com/edsonrlucas)
+![](https://visitor-badge.laobi.icu/badge?page_id="https://github.com/edsonrl/")
