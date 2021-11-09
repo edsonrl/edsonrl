@@ -14,7 +14,7 @@ I finished my Ph.D. in July 2020 and during this time I worked on making [Apache
 [![Github stats](https://github-readme-stats.vercel.app/api?username=erlfilho&theme=white-black)](https://github.com/erlfilho/github-readme-stats)
 
 <!--
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erlfilho&hide=TeX&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonrl&hide=TeX&layout=compact)
 -->
 
 [![Foo](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blu)](https://www.linkedin.com/in/edsonramirolucasfilho/)
