@@ -8,4 +8,4 @@ These are select projects that I've worked on in the last years.
 
 I'm an open source advocate. I'm on [twitter](https://www.twitter.com/miro_fh).
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=edsonrl&theme=white-black)](https://github.com/edsonrl/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mirofh&theme=white-black)](https://github.com/mirofh/github-readme-stats)
