@@ -1,4 +1,4 @@
-# About Coding
+# Selected Projects
 
 These are select projects that I've worked on in the last years.
 
