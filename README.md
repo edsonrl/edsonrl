@@ -1,4 +1,4 @@
-# Selected Projects
+## Selected Projects
 
 These are select projects that I've worked on in the last years.
 
@@ -7,7 +7,7 @@ These are select projects that I've worked on in the last years.
 - Making SQL-on-Hadoop Systems (i.e., Hive) Self-Tune Queries [1](https://www.sciencedirect.com/science/article/abs/pii/S2214579621000216), [2](https://link.springer.com/chapter/10.1007%2F978-3-030-33223-5_9), [3](http://ceur-ws.org/Vol-2469/ERDemo03.pdf).
 - Stress Testing Relational Databases with dynamically shifting workload volumes and velocity [1](https://link.springer.com/chapter/10.1007/978-3-319-44403-1_13).
 
-## Me 
+## About Me 
 
 + I'm an open source advocate. 
 + You can find me on [twitter](https://www.twitter.com/miro_fh).
